@@ -6,7 +6,7 @@ def square_array(array)
   array.each do |array|
   new_numbers.push(array * array)
   # puts array * array
-  
+
  end
  return new_numbers
 end
