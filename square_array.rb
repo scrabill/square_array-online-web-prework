@@ -4,8 +4,8 @@ def square_array(array)
   new_numbers = []
 
   array.each do |array|
-  new_numbers << array
-  puts array * array
+  new_numbers << array * array
+  # puts array * array
 
  end
 end
